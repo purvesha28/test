@@ -1,0 +1,5 @@
+{{#user}}
+Name: Purvesha Kolhe
+Skills: HTML, CSS, JS, Next.js, AWS
+Email: purvikolhe@gmail.com
+{{/user}}
